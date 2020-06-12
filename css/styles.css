@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: whitesmoke;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     margin-left: 0;
@@ -60,15 +60,24 @@ a:hover {
     position: relative;
     padding-top: 150px;
     font-family: Helvetica, sans-serif;
+    display: table;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .middle-container {
+    background-color: whitesmoke;
     margin: 100px 0;
+    background-attachment: fixed;
 }
 
 .bottom-container {
     background-color: #66BFBF;
     padding: 50px 0 20px;
+    background-attachment: fixed;
 }
 
 .bottom-cloud {
