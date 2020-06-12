@@ -102,6 +102,7 @@ a:hover {
 }
 
 .skill-image2 {
+    border-radius: 50%;
     width: 25%;
     float: right;
     margin-left: 30px;
